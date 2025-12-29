@@ -1,5 +1,0 @@
-requests
-APScheduler
-flask
-flask_cors
-gunicorn
